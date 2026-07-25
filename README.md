@@ -1,171 +1,66 @@
-WebCraft — Task-01: Responsive Landing Page
+# PRODIGY_WD_01 - Responsive Landing Page
 
-Student Name: Akki Joshi
-Course: B.Tech — Computer Science & Engineering
-Year: 3rd Year
-Roll No: 21CS045
-College: Graphic Era Hill University
-Email: akkijoshi493@gmail.com
-Subject: Web Technologies Lab
+## Overview
 
-Project Description
+This project is a Responsive Landing Page developed as Task 01 of the Prodigy InfoTech Web Development Internship.
 
-This is a multi-page responsive landing page built as an academic project. It includes a fixed navigation menu that changes style on scroll and when hovering over menu items, as required by Task-01.
+The landing page features a fixed navigation menu that changes style when the page is scrolled and provides interactive hover effects on menu items. The design is fully responsive and works across desktop, tablet, and mobile devices.
 
-Features
+## Features
 
+- Fixed navigation bar visible on all pages
+- Navigation style changes on scroll
+- Hover effects on menu items
+- Responsive design for all screen sizes
+- Mobile-friendly hamburger menu
+- Multi-page website structure
 
+## Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
 
+## Project Structure
 
-Fixed navigation bar visible on all pages
+```text
+PRODIGY_WD_01/
+├── index.html
+├── about.html
+├── skills.html
+├── contact.html
+├── styles.css
+├── main.js
+└── README.md
+```
 
+## How to Run
 
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
 
-Background and link color changes on scroll
+Alternatively:
 
+```bash
+python3 -m http.server 8000
+```
 
+Then visit:
 
-Hover effects on navigation menu items
+```text
+http://localhost:8000
+```
 
+## Internship Task
 
+Task 01: Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.
 
-Responsive layout for mobile, tablet, and desktop
+## Author
 
+**Ankit Joshi**  
+B.Tech Computer Science & Engineering  
+Graphic Era Hill University
 
+## Repository
 
-Hamburger menu for small screens
-
-
-
-Active page highlighting in navigation
-
-
-
-Technologies Used
-
-
-
-
-
-HTML5
-
-
-
-CSS3 (Flexbox, Grid, Media Queries)
-
-
-
-JavaScript (DOM Events, Scroll Listener)
-
-
-
-Project Structure
-
-responsive-landing-page/
-├── index.html      # Home page
-├── about.html      # About student & project
-├── skills.html     # Technical skills
-├── contact.html    # Contact form
-├── css/
-│   └── styles.css  # All styling
-└── js/
-    └── main.js     # Navigation interactivity
-
-
-
-How to Run
-
-
-
-
-
-Open the project folder in terminal
-
-
-
-Start a local server:
-
- python3 -m http.server 8000
-
-
-
-Open in browser: http://localhost:8000
-
-
-
-Pages
-
-
-
-
-
-
-
-Page
-
-
-
-Description
-
-
-
-
-
-Home
-
-
-
-Introduction and project features
-
-
-
-
-
-About
-
-
-
-Student profile and project objective
-
-
-
-
-
-Skills
-
-
-
-Technical skills learned
-
-
-
-
-
-Contact
-
-
-
-Contact form and details
-
-
-
-Assignment Requirements Fulfilled
-
-
-
-
-
-HTML used to structure the navigation menu
-
-
-
-CSS used to style fixed navigation and hover effects
-
-
-
-JavaScript used for scroll-based style changes and mobile menu toggle
-
-
-
-Submitted as part of B.Tech 3rd Year Web Technologies coursework.
+GitHub Repository: https://github.com/ANKITJOSHI1605/PRODIGY_WD_01
