@@ -50,7 +50,9 @@ Then visit:
 ```text
 http://localhost:8000
 ```
+## Project Preview
 
+![Landing Page](images/screenshot.png)
 ## Internship Task
 
 Task 01: Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.
