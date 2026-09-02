@@ -1,5 +1,7 @@
 # PRODIGY_WD_01 - Responsive Landing Page
 
+**Live demo:** [https://ankitjoshi1605.github.io/PRODIGY_WD_01/](https://ankitjoshi1605.github.io/PRODIGY_WD_01/)
+
 ## Overview
 
 This project is a Responsive Landing Page developed as Task 01 of the Prodigy InfoTech Web Development Internship.
@@ -52,7 +54,7 @@ http://localhost:8000
 ```
 ## Project Preview
 
-![Landing Page](images/screenshot.png)
+![Landing Page](image.png)
 ## Internship Task
 
 Task 01: Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.
